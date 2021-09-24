@@ -1,3 +1,7 @@
+<!---
+THE START
+--->
+
 #INTRODUCTION
 
 - print(' Hey! How are you? I'm @KanopePT. ')
@@ -7,16 +11,15 @@
 
 #SOCIAL MEDIA
 
-<!---
 LinkedIn:
 https://www.linkedin.com/in/miguel-ângelo-faria-silva-083966216/
 -----
-GITHUB:
-https://github.com/KanopePT
------
-STACKOverFlow:
-https://pt.stackoverflow.com/users/259312/miguelofsilva
------
 Twitter:
 https://twitter.com/miguelofsilva
+-----
+Instagram:
+https://instagram.com/miguelofsilva
+
+<!---
+THE END 
 --->

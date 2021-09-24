@@ -11,13 +11,13 @@ THE START
 
 #SOCIAL MEDIA
 
-LinkedIn:
+- LinkedIn:
 https://www.linkedin.com/in/miguel-ângelo-faria-silva-083966216/
 
-Twitter:
+- Twitter:
 https://twitter.com/miguelofsilva
 
-Instagram:
+- Instagram:
 https://instagram.com/miguelofsilva
 
 <!---

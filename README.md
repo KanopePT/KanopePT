@@ -18,7 +18,7 @@ https://www.linkedin.com/in/miguel-ângelo-faria-silva-083966216/
 https://twitter.com/miguelofsilva
 
 
-- Instagram:
+- Facebook:
 https://fb.com/miguelofsilva
 
 - Instagram:

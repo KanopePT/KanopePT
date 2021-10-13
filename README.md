@@ -1,6 +1,4 @@
-<!---
-THE START
---->
+<!--- #START_INTRODUCTION --->
 
 #INTRODUCTION
 
@@ -8,6 +6,10 @@ THE START
 - print(' I’m currently dedicating my knowledge in the practice of repairing computers and mobile phones on my own. ')
 - print(' Also with knowledge in basic programming such as HTML, PHP and CSS. ')
 - print(' You can add me no problem on social networks, I'll list them below. ')
+
+<!--- #END_INTRODUCTION --->
+
+<!--- #START_SOCIALMEDIA --->
 
 #SOCIAL MEDIA
 
@@ -24,6 +26,5 @@ https://fb.com/miguelofsilva
 - Instagram:
 https://instagram.com/miguelofsilva
 
-<!---
-THE END 
---->
+<!--- #END_INTRODUCTION --->
+
